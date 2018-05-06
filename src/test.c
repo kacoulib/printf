@@ -43,7 +43,7 @@ int	main(int argc, char const *argv[])
 
 	init(&tmp);
 
-	printf("%#o\n", 5);
+	printf("%2.3d\n", 3);
 	// testIt("12", "first", "second", "third", "fourth");
 	return (0);
 }
